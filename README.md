@@ -6,14 +6,13 @@
 
 <img src="assets/banner.png" width="100%"/>
 
-![Java]([https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=openjdk](https://www.java.com/en/))
-![Maven]([https://img.shields.io/badge/Maven-Build-red?style=for-the-badge&logo=apachemaven](https://maven.apache.org/))
-![Spring]([https://img.shields.io/badge/Spring-Core-green?style=for-the-badge&logo=spring](https://spring.io/projects/spring-boot))
-![Hibernate]([https://img.shields.io/badge/Hibernate-ORM-darkgreen?style=for-the-badge](https://hibernate.org/))
-![JUnit]([https://img.shields.io/badge/JUnit-5-brightgreen?style=for-the-badge](https://junit.org/))
-![Mockito]([https://img.shields.io/badge/Mockito-Mocking-blue?style=for-the-badge](https://site.mockito.org/))
-![SQL]([https://img.shields.io/badge/Oracle-SQL-red?style=for-the-badge&logo=oracle](https://www.oracle.com/))
-
+[![Java](https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)
+[![Maven](https://img.shields.io/badge/Maven-Build-red?style=for-the-badge&logo=apachemaven)](https://maven.apache.org/)
+[![Spring](https://img.shields.io/badge/Spring-Core-green?style=for-the-badge&logo=spring)](https://spring.io/)
+[![Hibernate](https://img.shields.io/badge/Hibernate-ORM-darkgreen?style=for-the-badge)](https://hibernate.org/)
+[![JUnit](https://img.shields.io/badge/JUnit-5-brightgreen?style=for-the-badge)](https://junit.org/)
+[![Mockito](https://img.shields.io/badge/Mockito-Mocking-blue?style=for-the-badge)](https://site.mockito.org/)
+[![Oracle SQL](https://img.shields.io/badge/Oracle-SQL-red?style=for-the-badge&logo=oracle)](https://www.oracle.com/database/)
 </div>
 
 ---
