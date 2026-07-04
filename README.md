@@ -38,15 +38,12 @@ This repository contains all assignments, implementations, coding exercises, and
 
 | Week | Module | Topics |
 |------|---------|--------|
-| 1 | Data Structures | Arrays, Searching, Recursion |
-| 2 | Design Patterns | Factory, Singleton, Adapter |
-| 3 | Spring Core | IoC, Dependency Injection |
-| 4 | Spring MVC | Controllers |
-| 5 | Hibernate | ORM |
-| 6 | Spring Boot | REST APIs |
-| 7 | JUnit | Unit Testing |
-| 8 | Mockito | Mock Testing |
-
+| 1 | Data Structures | Binary/Linear search, Recursion, Time & Space Complexity |
+|   | Design Patterns | Creational Patterns (Factory, Builder, Singleton), Structural Patterns (Adapter), Behavioral Patterns (Strategy) |
+|   | Unit Testing    | JUnit 5 assertions, setup/teardown hooks, edge-case testing |
+|   | Mocking         | Stubbing external APIs, interaction verification, mock creation |
+|   | Logging         | SLF4J Logger initialization, logging levels (trace, debug, info, warn, error) |
+|   | PL/SQL          | Cursors, Triggers, Packages, Stored Procedures, Error handling |
 ---
 
 # 📂 Folder Structure
