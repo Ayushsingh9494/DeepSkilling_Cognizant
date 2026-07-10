@@ -6,14 +6,13 @@
 
 <img src="assets/banner.png" width="100%"/>
 
-![Java](https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=openjdk)
-![Maven](https://img.shields.io/badge/Maven-Build-red?style=for-the-badge&logo=apachemaven)
-![Spring](https://img.shields.io/badge/Spring-Core-green?style=for-the-badge&logo=spring)
-![Hibernate](https://img.shields.io/badge/Hibernate-ORM-darkgreen?style=for-the-badge)
-![JUnit](https://img.shields.io/badge/JUnit-5-brightgreen?style=for-the-badge)
-![Mockito](https://img.shields.io/badge/Mockito-Mocking-blue?style=for-the-badge)
-![SQL](https://img.shields.io/badge/Oracle-SQL-red?style=for-the-badge&logo=oracle)
-
+[![Java](https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)
+[![Maven](https://img.shields.io/badge/Maven-Build-red?style=for-the-badge&logo=apachemaven)](https://maven.apache.org/)
+[![Spring](https://img.shields.io/badge/Spring-Core-green?style=for-the-badge&logo=spring)](https://spring.io/)
+[![Hibernate](https://img.shields.io/badge/Hibernate-ORM-darkgreen?style=for-the-badge)](https://hibernate.org/)
+[![JUnit](https://img.shields.io/badge/JUnit-5-brightgreen?style=for-the-badge)](https://junit.org/)
+[![Mockito](https://img.shields.io/badge/Mockito-Mocking-blue?style=for-the-badge)](https://site.mockito.org/)
+[![Oracle SQL](https://img.shields.io/badge/Oracle-SQL-red?style=for-the-badge&logo=oracle)](https://www.oracle.com/database/)
 </div>
 
 ---
@@ -39,15 +38,12 @@ This repository contains all assignments, implementations, coding exercises, and
 
 | Week | Module | Topics |
 |------|---------|--------|
-| 1 | Data Structures | Arrays, Searching, Recursion |
-| 2 | Design Patterns | Factory, Singleton, Adapter |
-| 3 | Spring Core | IoC, Dependency Injection |
-| 4 | Spring MVC | Controllers |
-| 5 | Hibernate | ORM |
-| 6 | Spring Boot | REST APIs |
-| 7 | JUnit | Unit Testing |
-| 8 | Mockito | Mock Testing |
-
+| 1 | Data Structures | Binary/Linear search, Recursion, Time & Space Complexity |
+|   | Design Patterns | Creational Patterns (Factory, Builder, Singleton), Structural Patterns (Adapter), Behavioral Patterns (Strategy) |
+|   | Unit Testing    | JUnit 5 assertions, setup/teardown hooks, edge-case testing |
+|   | Mocking         | Stubbing external APIs, interaction verification, mock creation |
+|   | Logging         | SLF4J Logger initialization, logging levels (trace, debug, info, warn, error) |
+|   | PL/SQL          | Cursors, Triggers, Packages, Stored Procedures, Error handling |
 ---
 
 # 📂 Folder Structure
